@@ -1,3 +1,3 @@
 1. Git'i bir save noktası gibi düşünebilirsin. Farklı dallara (branch) ayırıp tekrar birleştirebilirsin.
 2. "git  init" ve "git status" kavramlarını gördüm ve ayrıcı "ls -la" komutunu girince gizli klasörleride gösteriyor.
-3. 
+3. "git add ." ve "git add (file name)" komutları ile ekleme yapmayı ve ayrıca " git commit -m "mesaj" " ile de commit atmayı öğrendim.
