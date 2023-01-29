@@ -1,0 +1,2 @@
+1. Git'i bir save noktası gibi düşünebilirsin. Farklı dallara (branch) ayırıp tekrar birleştirebilirsin.
+2.
