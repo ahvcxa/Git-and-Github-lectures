@@ -9,3 +9,4 @@
 5. Kişisel bilgiler ve keyleri bunun içinde saklayabilir ve paylaşmadan gitignore klasörünün içinde gizleyebilirim.
    Yalnızca isim yazmam gerek . gitignore dosyasının içine. oluşturmak için "touch .gitignore".
 
+6. HEAD kavramı güncel olarak neredeyiz onu gösteriyor bunun üzerinde durduk.
