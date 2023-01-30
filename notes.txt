@@ -10,3 +10,8 @@
    Yalnızca isim yazmam gerek . gitignore dosyasının içine. oluşturmak için "touch .gitignore".
 
 6. HEAD kavramı güncel olarak neredeyiz onu gösteriyor bunun üzerinde durduk.
+
+7. "git branch feature" adında yeni bir branch açtık. onun üzerinde yapılan değişiklikler master branchte gözükmeyecek ve aynı şekilde 
+   diğerinde de  daha sonra "git branch" diyip hangi branchler var ona bakabilirsin. daha sonra "git switch feature" diyip feature branchine geçip
+   ilerleyebilirsin daha sonra bu iki branchi birleştirmek için "git merge feature" hangisini içeri alacaksak onu komuta yazmamız gerekiyor.Yani önce 
+   master branchine geçmemiz gerekli. 
