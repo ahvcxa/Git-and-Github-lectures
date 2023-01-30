@@ -18,3 +18,8 @@
 8. Eger farklı bir branch de çalışıp master dalında bir  şey yapmadan merge etmek isterseniz  bu ifade fast foward denir.
 
 9. Eğer aynı dosya içinde farklı branchlar da değişiklik yaparsan conflict olur bunu düzeltmek için birini silmen ona göre karmaşıklığı gidermen gerek. 
+
+10. Eğer bir branchin içindeyken bir değişikliği tamamlamadıysan ve başka bir branchin içine geçerken sıkıntı çıkmasın ve ayrıca commit etmeyeyim diyorsan
+    "git stash" komutu ile farklı bir depoya yollayabilirsin.
+    geri çağırırken ise "git stash pop" komutunu kullanıyoruz.
+    Eğer birden fazla stash yaparsak "git stash list" yazarak listeden ilk satırını kopyalayıp "git stash apply stash@{0}" gibi.
