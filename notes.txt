@@ -17,4 +17,4 @@
    master branchine geçmemiz gerekli.
 8. Eger farklı bir branch de çalışıp master dalında bir  şey yapmadan merge etmek isterseniz  bu ifade fast foward denir.
 
- 
+9. Eğer aynı dosya içinde farklı branchlar da değişiklik yaparsan conflict olur bunu düzeltmek için birini silmen ona göre karmaşıklığı gidermen gerek. 
