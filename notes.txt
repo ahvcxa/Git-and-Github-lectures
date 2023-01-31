@@ -31,3 +31,5 @@
 12. Eğer sadece commitleri silip dosyalar içinde ki değişiklikler kalsın diyorsan "git reset (kodu)" 
     farklı bir şekilde hem commitler hemde değişiklikler silinsin diyorsan "git reset --hard (kodu)" (önerilmez toplu çalışmalar için).
     Eğer commitler kalsın ama ben geri alıcam tek tek en sondan başlayarak "git revert (kodu)" yapabilirsin böylece ona geri gittiğinin commiti de olacaktır.(sağlıklı)
+
+13. "git diff" komutu ile farklılıklara bakabilirim örneğin iki commit arası ve ya iki branch arası farklara vb. Sonuç olarak "git diff master feat" gibi. 
