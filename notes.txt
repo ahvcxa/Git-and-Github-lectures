@@ -33,3 +33,7 @@
     Eğer commitler kalsın ama ben geri alıcam tek tek en sondan başlayarak "git revert (kodu)" yapabilirsin böylece ona geri gittiğinin commiti de olacaktır.(sağlıklı)
 
 13. "git diff" komutu ile farklılıklara bakabilirim örneğin iki commit arası ve ya iki branch arası farklara vb. Sonuç olarak "git diff master feat" gibi. 
+
+14. "git rebase master" komutunu kullanmak için daha öncesinde herhangi bir yerde veya birisi ile paylaşmamış olmanız gerekmektedir.
+    rebase komutunu log verilerini temizlemek için kullanıyoruz örneğin farklı bir branch e geçtin ve master ı ona birleştirmek istedin böylece
+    merge commiti ortaya çıkacaktık  sonuç olarak bunun logda gözükmesini istemediğimiz durumlarda kullanıyoruz.
