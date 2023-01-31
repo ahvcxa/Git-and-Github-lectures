@@ -24,3 +24,5 @@
     geri çağırırken ise "git stash pop" komutunu kullanıyoruz.
     Eğer birden fazla stash yaparsak "git stash list" yazarak listeden ilk satırını kopyalayıp "git stash apply stash@{0}" gibi.
     Ayrıca "git stash clear" diyerek stash listi silebiliyorsun.
+
+11. Eğer önce ki commite dönmek istersen "git checkout (kodu)" diyerek gidersin. Eğer bir dosya ara bölgedeyse "git restore (dosya ismi)" diyerek geri alabiliyorsun.
