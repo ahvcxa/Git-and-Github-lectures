@@ -40,4 +40,7 @@
 
 15. GitHub'a göndermeden önce "git remote add origin (link)" daha sonra pushlamak için "git push -u origin master"
     "git push origin feat" örneğin feat branchine geçtik ve bir şey eklemek istiyoruz böyle yapabilirsin.
+
+16. GitHub senden öndeyse commit bakımından öncelikle "git fetch orgin/master" ve böylece localde değişikliklere bakabilirsin "git checkout origin/master" diyerek
+    fakat bu commitleri merge etmiyor bunun için "git pull" yazmalıyız.
     
